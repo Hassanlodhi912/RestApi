@@ -7,29 +7,21 @@ const productSchema = new mongoose.Schema(
             type: String,
             required: true,
         },
-        price: {
+        Price: {
             type: Number,
             required: [true, "Price must be Provided"],
         },
-        featured: {
-            type: Boolean,
-            default: false,
-        },
-        rating: {
-            type: Number,
-            default: 4.9,
-        },
+
         createdA: {
             type: Date,
             default: Date.now(),
         },
-        company: {
+        
+        description: {
             type: String,
-            enum: {
-                values: ["apple","samsung","dell","mi"],
-                message:`{VALUE} is not supported`,
-            },
+            required: true,
         },
+
     }
 )
 
