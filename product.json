@@ -2,36 +2,41 @@
     {
         "name": "Mens Flame Printed Sneaker's",
         "Price": 1076,
-        "category":"featured",
-        "screen":"home",
+        "Image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "featured",
+        "screen": "home",
         "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability"
     },
     {
         "name": "Mens Watch",
         "Price": 2000,
-        "category":"featured",
-        "screen":"home",
+        "Image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "featured",
+        "screen": "home",
         "description": "Inspired by the clean lines and minimalism of mid-century modern design, this slim timepiece was built on the principles of balance and proportion. With an unassuming dial and lumed stick hour markers, it’s a simple, uncluttered and functional watch. "
     },
     {
         "name": "Queen Size Painting",
         "Price": 111179,
-        "category":"featured",
-        "screen":"home",
+        "Image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "featured",
+        "screen": "home",
         "description": "One of the most beautiful piece of painting in the world"
     },
     {
-        "name":"King Mens T-Shirt Pack",
+        "name": "King Mens T-Shirt Pack",
         "Price": 699,
-        "category":"featured",
-        "screen":"home",
+        "Image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "featured",
+        "screen": "home",
         "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability"
     },
     {
-            "name":"Mens Flame Printed Sneaker's",
-            "Price": 369,
-            "category":"featured",
-            "screen":"home",
-            "description": "Sourced from the finest hand picked mutton, make brain masala and get the experience at home"
+        "name": "Mens Flame Printed Sneaker's",
+        "Price": 369,
+        "Image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "featured",
+        "screen": "home",
+        "description": "Sourced from the finest hand picked mutton, make brain masala and get the experience at home"
     }
 ]
